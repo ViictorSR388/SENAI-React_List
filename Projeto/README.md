@@ -13,3 +13,7 @@ O processo foi usar useState na função para setar e alterar os itens e no retu
 Sem contar a estilização, que foi bem minimalistas e ficou da seguinte forma:
 
 ![image](https://user-images.githubusercontent.com/71882342/114558661-4c30b580-9c41-11eb-8b3d-10eb51099a48.png)
+
+Por fim a fonte foi: https://blog.cod3r.com.br/utilizando-hooks-usestate/
+
+![image](https://user-images.githubusercontent.com/71882342/114558835-77b3a000-9c41-11eb-81fe-319a56c13b3c.png)
